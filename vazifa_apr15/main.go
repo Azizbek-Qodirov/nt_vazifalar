@@ -1,5 +1,7 @@
 package main
 
+// 3.3 masalani ishlashini ko'rsatish uchun githubni o'zidan change qilindi
+
 import (
 	"fmt"
 	"os"
