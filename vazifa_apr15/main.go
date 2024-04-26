@@ -1,6 +1,7 @@
 package main
 
 // 3.3 masalani ishlashini ko'rsatish uchun githubni o'zidan change qilindi
+// dev branchdan o'zgarish amamlga oshirildi
 
 import (
 	"fmt"
@@ -8,6 +9,7 @@ import (
 	"os/exec"
 	"time"
 )
+
 
 var (
 	RED     = "\033[31m"
