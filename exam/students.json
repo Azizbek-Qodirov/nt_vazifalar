@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "name": "Azizbek",
+        "courses": [
+            {
+                "courseId": "101",
+                "grade": "11",
+                "professor": "Dr.Black"
+            },
+            {
+                "courseId": "105",
+                "grade": "1",
+                "professor": "Pr.Smith"
+            }
+        ],
+        "address": {
+            "street": "Binokor",
+            "city": "Andijan",
+            "country": "Uzbekistan"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Anwar",
+        "courses": [
+            {
+                "courseId": "101",
+                "grade": "5",
+                "professor": "Dr.Adam"
+            },
+            {
+                "courseId": "105",
+                "grade": "8",
+                "professor": "Pr.John"
+            }
+        ],
+        "address": {
+            "street": "Uzbekistan",
+            "city": "Andijan",
+            "country": "Uzbekistan"
+        }
+    },
+    {
+        "id": "3",
+        "name": "Kamal",
+        "courses": [
+            {
+                "courseId": "101",
+                "grade": "6",
+                "professor": "Dr.Clean"
+            },
+            {
+                "courseId": "105",
+                "grade": "9",
+                "professor": "Pr.Peter"
+            }
+        ],
+        "address": {
+            "street": "Oqtepa",
+            "city": "Tashkent",
+            "country": "Uzbekistan"
+        }
+    }
+]
